@@ -1,0 +1,11 @@
+{
+  "name": "mongogaipan",
+  "description": "pungent & filling",
+  "version": "1.0.0",
+  "engines": {
+    "node": "0.10.35"
+  },
+  "dependencies": {
+    "mongoskin": "^2.0.3"
+  }
+}
