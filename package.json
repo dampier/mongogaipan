@@ -2,10 +2,21 @@
   "name": "mongogaipan",
   "description": "pungent & filling",
   "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": "0.10.35"
   },
   "dependencies": {
+    "express": "^4.13.3",
     "mongoskin": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dampier/mongogaipan"
+  },
+  "author": "Joe Mama",
+  "license": "MIT"
 }
